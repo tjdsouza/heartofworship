@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: O magnify the Lord with me, and let us exalt his name together.
+    text: A Community of Praise Dancers in Cincinnati 
+    button: Worship With Us
+    buttonlink: "#events"
 
-  services:
-    title: "Services"
+  events:
+    title: "Events"
     text: "Lorem ipsum"
-    section: services
+    section: events
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -175,7 +175,7 @@ es: &DEFAULT_ES
     button: Ver más
     buttonlink: "#servicios"
 
-  services:
+  events:
     title: "Servicios"
     text: "Lorem ipsum"
     section: servicios
