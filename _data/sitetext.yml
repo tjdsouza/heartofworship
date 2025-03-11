@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: Magnify the Lord with me; let us exalt His name together.
     text: Praise Dance in Cincinnati 
     button: Worship With Us
-    buttonlink: "#events"
+    buttonlink: "#upcoming"
 
-  events:
-    title: "Events"
+  upcoming:
+    title: "Upcoming Events"
     text: "{% include eventbrite.html %}"
-    section: events
+    section: upcoming
 
   portfolio:
     title: "Portfolio"
