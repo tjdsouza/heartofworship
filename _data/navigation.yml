@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   nav:
     - title: "Upcoming Events"
-      section: upcoming
+      section: services
     - title: "Dancer Testimonies"
-      section: testimonials
+      section: portfolio
     - title: "About"
       section: about
     - title: "Contact"
