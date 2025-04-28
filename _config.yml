@@ -23,7 +23,7 @@ description: "A praise dance ministry in Cincinatti, Ohio."
 author     : Erykah Hall
 logo:     #optional, defaults to site title
   path: assets\img\how_color_logo.svg
-  height: 120 #height in px, defaults to 52px
+  height: 240 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

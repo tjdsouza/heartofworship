@@ -13,16 +13,13 @@ en: &DEFAULT_EN
   nav:
     - title: "Upcoming Events"
       section: upcoming
-    - title: "testimonials"
+    - title: "Dancer Testimonies"
       section: testimonials
     - title: "About"
       section: about
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://tjdsouza.github.io/heartofworshipcincy/
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
