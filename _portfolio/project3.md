@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: This Lady's Story
+subtitle: Something this lady said!
 image: assets/img/portfolio/03-full.jpg
-alt: 
+alt: This lady at the dance workshop
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: This Lady
+  subtitle: Something this lady said!
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+More things this lady has to say
 
