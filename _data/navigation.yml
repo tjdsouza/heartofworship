@@ -2,7 +2,7 @@
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
+# locale: "en-US"
 #
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
@@ -17,8 +17,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
-      section: timeline
     - title: "Team"
       section: team
     - title: "Contact"
