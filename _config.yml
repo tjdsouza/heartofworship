@@ -18,12 +18,12 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/heartofworshipcincy" # the subpath of your site, e.g. /blog
 
 title      : Heart Of Worship
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : heartofworshipdance07@gmail.com #this is also the email contact forms will go to
 description: "A praise dance ministry in Cincinatti, Ohio."
 author     : Erykah Hall
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\how_color_logo.svg
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
