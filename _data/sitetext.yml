@@ -12,13 +12,13 @@
 en: &DEFAULT_EN
   header:
     title: Magnify the Lord with me; let us exalt His name together.
-    text: Praise Dance in Cincinnati 
+    text: Heart of Worship
     button: Worship With Us
     buttonlink: "#services"
 
   services:
     title: "Upcoming Events"
-    body: {% include eventbrite.html %}
+    {% include eventbrite.html %}
     section: services
 
   portfolio:
