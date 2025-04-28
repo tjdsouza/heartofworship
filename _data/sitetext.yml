@@ -18,6 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Upcoming Events"
+    source: {% include eventbrite.html %}
     section: services
 
   portfolio:
