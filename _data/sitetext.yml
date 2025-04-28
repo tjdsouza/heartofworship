@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Upcoming Events"
-    content: "<p>{% include eventbrite.html %}<p>""
+    content: "<p>{% include eventbrite.html %}<p>"
     section: services
 
   portfolio:
