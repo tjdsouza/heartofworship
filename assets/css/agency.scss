@@ -18,7 +18,7 @@
 
 // Custom colors
 $primary: {{ site.data.style.highlight | default: "#C2922F" }} !default;
-$secondary: {{ site.data.style.heading | default: "#ED9389" }} !default;
+#portfolio .portfolio-item .portfolio-caption {{ color: "#ED9389" }}
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
