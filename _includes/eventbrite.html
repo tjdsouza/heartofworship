@@ -1,6 +1,9 @@
-<div id="eventbrite-widget-container-2004718478936"></div>
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.com/e/test-dance-event-tickets-2004718478936" rel="noopener noreferrer" target="_blank">Register for Our Workshop!</a></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-2004718478936" type="button">Reserve Your Spot</button>
 
-<script src=https://www.eventbrite.com/static/widgets/eb_widgets.js></script>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
@@ -8,14 +11,10 @@
     };
 
     window.EBWidgets.createWidget({
-        // Required
         widgetType: 'checkout',
         eventId: '2004718478936',
-        iframeContainerId: 'eventbrite-widget-container-2004718478936',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-2004718478936',
+        onOrderComplete: exampleCallback
     });
 </script>
